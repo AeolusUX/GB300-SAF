@@ -1,7 +1,7 @@
 # GB300 Theme SAF (Simple As F)
 
 
-## GB300 Theme SAF (Simple As F) Dark & Blue
+## GB300 Theme SAF Dark & Blue
 Stock OS Theme fit for GB300 Retro Handheld
 Developed by AeolusUX, this was made possible with the help of the GB300 Tool by Redeemer.
 
@@ -36,8 +36,9 @@ PROHIBITED:
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-### How to Install?
+# How to Install?
+> [!IMPORTANT]  
+> Copy all files from the Resources folder to your Resources folder on your SD Card.
 
-Copy all files from the Resources folder to your Resources folder on your SD Card.
 
 ###### [back to top](https://github.com/AeolusUX/GB300-SAF/)
