@@ -1,10 +1,19 @@
 # GB300 Theme SAF (Simple As F)
-![](https://raw.githubusercontent.com/AeolusUX/EpicFrog/main/preview.png)
+
 
 ## GB300 Theme SAF (Simple As F) Dark & Blue
 Stock OS Theme fit for GB300 Retro Handheld
-
 Developed by AeolusUX, this was made possible with the help of the GB300 Tool by Redeemer.
+
+Blue 
+
+![](https://raw.githubusercontent.com/AeolusUX/GB300-SAF/main/SAF-Blue.JPG)
+
+Dark
+
+![](https://raw.githubusercontent.com/AeolusUX/GB300-SAF/main/SAF-DARK.JPG)
+
+
 
 ### License
 
